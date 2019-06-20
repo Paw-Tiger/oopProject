@@ -4,7 +4,7 @@
 //error_reporting(E_ALL);
 require_once(__DIR__ . DIRECTORY_SEPARATOR . 'Autoload.php');
 spl_autoload_register(['Autoload', 'loader']);
-
+//2
 //1
 try {
     $asus = new \application\Asus('Intel', 8000, 2000, 1, 'Asus1');
