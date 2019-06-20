@@ -4,6 +4,7 @@
 //error_reporting(E_ALL);
 require_once(__DIR__ . DIRECTORY_SEPARATOR . 'Autoload.php');
 spl_autoload_register(['Autoload', 'loader']);
+//3
 //2
 //1
 try {
